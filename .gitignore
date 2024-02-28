@@ -1,0 +1,9 @@
+/lentic-server.html
+/dist/
+/lentic-server.org
+/.cask/
+*.elc
+
+# ELPA-generated files
+/lentic-server-autoloads.el
+/lentic-server-pkg.el
